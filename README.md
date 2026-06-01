@@ -27,6 +27,13 @@ A fun console game that simulates the classic Rock-Paper-Scissors match. This pr
 - game loop design
 - handling user choices
 
+### Casino Number Guessing Game
+A console game where the player guesses a randomly generated number from the casino. This project helps practice:
+- random number generation and seeding
+- reading user input and validating guesses
+- conditional logic for win/loss outcomes
+- loop control for repeated play and retries
+
 ## Why build small fun projects
 
 Starting with small projects is the best way to learn C++ because it helps you:
